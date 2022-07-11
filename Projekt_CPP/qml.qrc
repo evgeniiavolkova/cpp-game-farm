@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FarmPlot.qml</file>
+        <file>GameMap.qml</file>
+        <file>ItemSlot.qml</file>
+        <file>ItemBar.qml</file>
+        <file>StatusBar.qml</file>
+        <file>Seeds.json</file>
+        <file>Player.json</file>
+        <file>save.json</file>
+        <file>save.xml</file>
+        <file>PlayerPlot.qml</file>
+        <file>Images/player2.png</file>
+        <file>default.json</file>
+        <file>Images/carrotfield.png</file>
+        <file>Images/fieldongrass.png</file>
+        <file>Images/grass.png</file>
+        <file>Images/house.png</file>
+        <file>Images/pumpkinfield.png</file>
+        <file>Images/shovel.png</file>
+        <file>Images/carrotseeds.png</file>
+        <file>Images/fieldgrowone.png</file>
+        <file>Images/fieldgrowtwo.png</file>
+        <file>Images/market.png</file>
+        <file>Images/pumpkinseeds.png</file>
+        <file>Images/sleep.png</file>
+        <file>Images/carrot.png</file>
+        <file>Images/pumpkin.png</file>
+        <file>forSaving.xml</file>
+        <file>Images/stall.png</file>
+        <file>Images/sell.png</file>
+        <file>Images/lolec.png</file>
+        <file>Images/bla.jpg</file>
+        <file>sell.png</file>
+    </qresource>
+</RCC>

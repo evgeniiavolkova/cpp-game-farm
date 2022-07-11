@@ -1,0 +1,8 @@
+{
+        "seems":[
+                { "name": "pumpkin", "cost":30},
+                { "name": "strawberry", "cost":50},
+                { "name": "blueberry", "cost":60}
+                { "name": "carrot", "cost":30}
+        ]
+}
